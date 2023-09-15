@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "slides/slides.html#happy-to-see-you",
+    "href": "slides/slides.html#happy-to-see-you",
+    "title": "Lea’s simple presentation",
+    "section": "Happy to see you",
+    "text": "Happy to see you"
+  },
+  {
+    "objectID": "slides/slides.html#what-do-you-like",
+    "href": "slides/slides.html#what-do-you-like",
+    "title": "Lea’s simple presentation",
+    "section": "What do you like",
+    "text": "What do you like\n\nBasketball\nBarbie\nThe model has been applied to evaluate the solar photovoltaic (PV) power generation in China. Our empirical results show that real option analysis (ROA) is more effective than net present value analysis (NPV) when handling uncertainty. [@zhang2014real]"
+  },
+  {
+    "objectID": "slides/slides.html#now-say-byebye",
+    "href": "slides/slides.html#now-say-byebye",
+    "title": "Lea’s simple presentation",
+    "section": "Now say byebye",
+    "text": "Now say byebye"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Engineering and Design\n\n\nEnergy Science\n\n\nEnvironmental Science\n\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nx = np.linspace(0, 10, 100)\ny = np.tan(x)\n\nplt.plot(x, y)\nplt.show()"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Residential Solar Power Station Company Introduction",
+    "section": "",
+    "text": "1\nWelcome to Lea’s company, a leading provider of residential solar power solutions. Founded in 2023, we are committed to making renewable energy accessible and affordable for homeowners across the United States. Our mission is to empower individuals to become part of the green energy revolution, reducing carbon footprints and contributing to a sustainable future.\n\\(P(S|E)=\\frac{P(E|S)\\times P(S)}{P(E)}\\)\n\\[ \\begin{align}\n(a + b)^n &= \\sum_{k=0}^{n} \\binom{n}{k} a^{n-k} b^k \\nonumber \\\\\n&= \\binom{n}{0} a^n b^0 + \\binom{n}{1} a^{n-1} b^1 + \\binom{n}{2} a^{n-2} b^2 + \\cdots \\nonumber \\\\\n&= \\binom{n}{n-2} a^2 b^{n-2} + \\binom{n}{n-1} a^1 b^{n-1} + \\binom{n}{n} a^0 b^n\n\\end{align} \\]\nOur vision is to be the most trusted and efficient residential solar power provider, transforming the way energy is generated and consumed at home. We aim to make solar energy the primary source of power for households, thereby reducing dependency on fossil fuels.\nThe model has been applied to evaluate the solar photovoltaic (PV) power generation in China. Our empirical results show that real option analysis (ROA) is more effective than net present value analysis (NPV) when handling uncertainty.(Zhang, Zhou, and Zhou 2014)\ngraph LR;\n      A[Project development] --&gt; B[Project construction];\n      B --&gt; C[Project Acceptance];\n      C --&gt; D[Power station operation and maintenance]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Residential Solar Power Station Company Introduction",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBack to first line↩︎"
+  }
+]

@@ -1,0 +1,71 @@
+---
+title: Residential Solar Power Station Company Introduction 
+bibliography: references.bib
+---
+[^1]
+
+<h1>About Us</h1> 
+
+![picture 1](./images/picture_1.jpeg)
+
+![picture 2](./images/picture_2.jpeg)
+
+<p>Welcome to Lea's company, a leading provider of residential solar power solutions. Founded in 2023, we are committed to making renewable energy accessible and affordable for homeowners across the United States. Our mission is to empower individuals to become part of the green energy revolution, reducing carbon footprints and contributing to a sustainable future.</p>
+
+> -- <cite>Lea Wang</cite>
+
+<h1>Our Vision</h1>
+
+$P(S|E)=\frac{P(E|S)\times P(S)}{P(E)}$
+
+$$ \begin{align}
+(a + b)^n &= \sum_{k=0}^{n} \binom{n}{k} a^{n-k} b^k \nonumber \\
+&= \binom{n}{0} a^n b^0 + \binom{n}{1} a^{n-1} b^1 + \binom{n}{2} a^{n-2} b^2 + \cdots \nonumber \\
+&= \binom{n}{n-2} a^2 b^{n-2} + \binom{n}{n-1} a^1 b^{n-1} + \binom{n}{n} a^0 b^n
+\end{align} $$
+
+<p>Our vision is to be the most trusted and efficient residential solar power provider, transforming the way energy is generated and consumed at home. We aim to make solar energy the primary source of power for households, thereby reducing dependency on fossil fuels.</p>
+
+<h1>Therogy Background</h1>
+<h2>Academic Articles</h2>
+
+</table>
+
+| Article    | Author |
+| -------- | ------- |
+|A real option model for renewable energy policy evaluation with application to solar PV power generation in China  | Zhang, Mingming and Zhou, Dequn and Zhou, Peng     |
+| Probabilistic forecast of PV power generation based on higher order Markov chain | Sanjari, Mohammad Javad and Gooi, HB     |
+
+<p>The model has been applied to evaluate the solar photovoltaic (PV) power generation in China. Our empirical results show that real option analysis (ROA) is more effective than net present value analysis (NPV) when handling uncertainty.[@zhang2014real]</p>
+
+<h2>Academic Knowledge</h2>
+<h3>Engineering and Design</h3>
+- Mechanical Engineering
+- Electrical Engineering
+- Civil Engineering
+
+<h3>Energy Science</h3>
+- Solar Energy Fundamentals
+- Energy Storage
+- Energy Management
+
+<h3>Environmental Science</h3>
+- Environmental Impact Assessment
+- Sustainability
+
+<h1>The installatin of Solar Power Station</h1>
+
+<h2>Video</h2>
+
+![Installation video](./images/installation.mp4)
+
+<h2>Work flow</h2>
+
+```{mermaid}
+  graph LR;
+      A[Project development] --> B[Project construction];
+      B --> C[Project Acceptance];
+      C --> D[Power station operation and maintenance]
+```
+
+[^1]: Back to first line
